@@ -1,7 +1,7 @@
 Alamy-upsize
 ============
 
-rhotoshop script to upsize photographs to meet Alamy.com's minimum size requirement
+Alamy-upsize is a Photoshop script (JavaScript) to upsize photographs to meet Alamy.com's minimum size requirement
 
 Why you need this
 =================
