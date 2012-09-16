@@ -46,5 +46,6 @@ Licensing
 =========
 
 This script is free open source software, released under the GNU GPLv3. It
-is Copyright 2012 by Mathew Lodge, but is free to use under the terms of GPLv3. For
+is Copyright 2012 by Mathew Lodge, but is free to use under the terms of GPLv3. Full license terms
+are in COPYING.md. For
 more on GPLv3, see http://gplv3.fsf.org/
