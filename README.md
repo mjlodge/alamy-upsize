@@ -54,5 +54,5 @@ Author / About Me
 =================
 
 Alamy Upsize was written by Mathew Lodge from Lodgephoto: www.lodgephoto.com. My contact details are listed
-on the website here: http://www.lodgephoto.com/aboutus.html
+on the website here: https://www.lodgephoto.com/about/
 
